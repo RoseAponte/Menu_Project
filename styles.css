@@ -1,0 +1,65 @@
+@charset "UTF-8";
+div.WordSection1
+    {page:WordSection1;}
+nav a{
+    text-align: left;
+    font-size: 20.0pt;
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    margin-left: 0in;
+    margin-right: 0in;
+    margin-top: 0in;
+    margin-bottom: .0001pt;
+    padding: 0in;  
+}
+p.Item{
+    margin-top: 8.0pt;
+    margin-right: 0in;
+    margin-bottom: 0in;
+    margin-left: 0in;
+    margin-bottom: .0001pt;
+    line-height: 12.0pt;
+    page-break-after: avoid;
+    tab-stops: 27.0pt right 3.25in;
+    font-size: 12.0pt;
+}
+p.ItemDescription{
+    margin-bottom:.0001pt;
+    text-align:justify;
+    font-size:10.0pt;
+    font-family:"Arial Narrow","sans-serif";
+    margin-left: 0in;
+    margin-right: 0in;
+    margin-top: 0in;
+}
+
+
+html{
+    background-color: rgb(70, 0, 0);
+    color:white;
+}
+header{
+    color:goldenrod;
+    line-height: 20px;
+}
+a:visited, a:link{
+    color: white;;
+}
+a:hover{
+    color:lightgray;
+}
+h3{
+    font-family: 'Quintessential', cursive;
+}
+p{
+    font-family: 'Quintessential', cursive;
+}
+nav{
+    float: left;
+    width: 15%;
+    height:100%;
+    font-family: 'Quintessential', cursive;
+    padding: 10px;
+}
+
